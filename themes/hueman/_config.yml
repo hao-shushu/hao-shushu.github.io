@@ -3,11 +3,9 @@ menu:
     # tab导航栏
     Home: /
     # Delete this row if you don't want categories in your header nav bar
-    Categories: 
-    Web: https://github.com
-    Life: https://github.com
-    Collect: https://github.com
-    Updated: https://github.com
+    Categories: /categories
+    Collect: /collect
+    Updated: /updated
     About: /about/index.html
 # Customize
 customize:

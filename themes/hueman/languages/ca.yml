@@ -1,10 +1,10 @@
 index:
-    home: '主页'
-    about: '❤赞助辣条❤'
-    search: '搜索'
-    archive: 'Arxiu'
-    category: 
-    uncategorized: 'Sense categoria'
+    home: 'Inicio'
+    about: 'Acerca de'
+    search: 'Buscar'
+    archive: 'Archivo'
+    category: 'Categoria'
+    uncategorized: 'Sin categoría'
     tag: 'Etiqueta'
 nav:
     current_page:

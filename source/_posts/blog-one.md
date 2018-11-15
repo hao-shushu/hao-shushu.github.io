@@ -2,6 +2,8 @@
 title: blog-one
 date: 2018-11-15 01:47:21
 tags:
+type: web
+categories: web开发
 ---
 
 
