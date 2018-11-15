@@ -1,20 +1,26 @@
 # Menus
 menu:
+    # tab导航栏
     Home: /
     # Delete this row if you don't want categories in your header nav bar
-    Categories:
+    Categories: 
+    Web: https://github.com
+    Life: https://github.com
+    Collect: https://github.com
+    Updated: https://github.com
     About: /about/index.html
-
 # Customize
 customize:
     logo:
         width: 165
         height: 60
         url: images/logo-header.png
-    theme_color: '#006bde'
+    theme_color: '#62bbc3'
     highlight: androidstudio
     sidebar: left # sidebar position, options: left, right
+    # 是否启用缩略图
     thumbnail: true # enable posts thumbnail, options: true, false
+    # css/image/favicon.png 路径
     favicon: # path to favicon
     social_links: # for more icons, please see http://fontawesome.io/icons/#brand
         twitter: /
@@ -24,7 +30,7 @@ customize:
         weibo: /
         rss: /
 
-# Widgets
+# Widgets小部件
 widgets:
     - catalog
     - recent_posts
@@ -32,7 +38,8 @@ widgets:
     - archive
     - tag
     - tagcloud
-    - links
+    - links:
+        Hexo: http://hexo.io
 
 # Search
 search:
@@ -42,6 +49,7 @@ search:
 
 # Comment
 comment:
+    livere_uid: MTAyMC80MTA0OS8xNzU3NA==
     disqus: hexo-theme-hueman # enter disqus shortname here
     duoshuo: # enter duoshuo shortname here
     youyan: # enter youyan uid here

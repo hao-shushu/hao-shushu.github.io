@@ -1,9 +1,9 @@
 index:
-    home: 'Inici'
-    about: 'Quant a'
-    search: 'Cercar'
+    home: '主页'
+    about: '❤赞助辣条❤'
+    search: '搜索'
     archive: 'Arxiu'
-    category: 'Categoria'
+    category: 
     uncategorized: 'Sense categoria'
     tag: 'Etiqueta'
 nav:
