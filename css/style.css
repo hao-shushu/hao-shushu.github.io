@@ -16,6 +16,7 @@
 .article-meta a,
 .archive-year a {
   text-decoration: none;
+  text-align: center;
 }
 .widget h1,
 .article-entry h1 {
